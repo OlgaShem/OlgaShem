@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Olga, Frontend developer 👨‍💻 </div>  
+# <div align="center">I'm Olga, Frontend developer </div>  
   
 
 💪 6 years experience  
