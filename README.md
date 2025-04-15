@@ -6,7 +6,7 @@
 # <div align="center">I'm Olga, Frontend developer </div>  
   
 
-💪 6 years experience  
+💪 6 years of experience  
   
 
 💻Сreate various websites, landings, emails, and animations using HTML, CSS, JS, Angular, React, WordPress
@@ -15,9 +15,8 @@
 
 💎Some of my works:
 
+https://www.8tech.pro/
 
-
-  
   
 
 [Selection card](https://github.com/OlgaShem/Currancy-range) /  [Animation](https://github.com/OlgaShem/Fortune-wheel)  /  [Filter](https://github.com/OlgaShem/Tags-filter) / [Form validation](https://github.com/OlgaShem/JS-form-validation) / [WordPress website](https://agileengine.com/)  
