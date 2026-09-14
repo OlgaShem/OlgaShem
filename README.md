@@ -16,10 +16,10 @@
 💎Some of my works:
 
 https://www.8tech.pro/
-
+https://softsich.com/
   
 
-[Selection card](https://github.com/OlgaShem/Currancy-range) /  [Animation](https://github.com/OlgaShem/Fortune-wheel)  /  [Filter](https://github.com/OlgaShem/Tags-filter) / [Form validation](https://github.com/OlgaShem/JS-form-validation) / [WordPress website](https://agileengine.com/)  
+[Selection card](https://github.com/OlgaShem/Currancy-range)  /  [Filter](https://github.com/OlgaShem/Tags-filter) / [Form validation](https://github.com/OlgaShem/JS-form-validation) / [WordPress website](https://agileengine.com/)  
   
 
 ✏️Mentor on Frontend courses  
