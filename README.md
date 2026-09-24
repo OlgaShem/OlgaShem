@@ -6,10 +6,14 @@
 # <div align="center">I'm Olga, Frontend developer </div>  
   
 
-💪 6 years of experience  
+💪 7 years of experience  
   
 
-💻Сreate various websites, landings, emails, and animations using HTML, CSS, JS, Angular, React, WordPress
+💻 Specialized in React, TypeScript, JavaScript, UI architecture and performance optimization, including reducing page load time by 30%. 
+Experienced in creating animations and interactive experiences with PixiJS and Three.js. 
+Use Claude, GitHub Copilot and AI agents to accelerate development, debugging, refactoring and testing. 
+Strong in cross-functional collaboration and translating business requirements into scalable, engaging products. 
+Frontend Mentor with experience teaching groups of 10+ students.
   
   
 
